@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#52bdab">
+    <!--android:background="#373737"-->>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:id="@+id/background"
+        android:layout_x="-8dp"
+        android:layout_y="145dp"
+        android:src="@drawable/background"/>
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/w"
+        android:layout_x="142dp"
+        android:layout_y="165dp"
+        android:src="@drawable/w"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/a"
+        android:layout_x="35dp"
+        android:layout_y="265dp"
+        android:src="@drawable/a"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/s"
+        android:layout_x="142dp"
+        android:layout_y="265dp"
+        android:src="@drawable/s"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/d"
+        android:layout_x="248dp"
+        android:layout_y="265dp"
+        android:src="@drawable/d"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/g"
+        android:layout_x="220dp"
+        android:layout_y="400dp"
+        android:src="@drawable/guida"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/clacson"
+        android:layout_x="63dp"
+        android:layout_y="400dp"
+        android:src="@drawable/clacson"
+        android:clickable="true"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/armmbed"
+        android:layout_x="240dp"
+        android:layout_y="-5dp"
+        android:src="@drawable/armmbed" />
+
+    <ImageView
+        android:layout_width="138dp"
+        android:layout_height="114dp"
+        android:id="@+id/disconnect"
+        android:layout_x="23dp"
+        android:layout_y="-35dp"
+        android:src="@drawable/disconnect"/>
+
+
+</AbsoluteLayout>
