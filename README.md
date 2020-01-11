@@ -1,4 +1,4 @@
-# Lightspark, a custom mobile robots built on ARMmbed
+# Lightspark, a custom mobile robot built on ARMmbed
 
 This repository contains a backup of the bluetooth controller for Lightspark, a custom mobile robot built on ARMmbed.
 
